@@ -41,6 +41,8 @@ plot(VitC~Cult,data= veggy, main="Vitaim-C Contents by Cultivation method")
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
+The data Shows that Q3 of C39 is smaller than Q1 of C52 indicating that they are indeed disjoint
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results

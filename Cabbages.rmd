@@ -57,3 +57,4 @@ The p-value 0.000000003405. This clearly shows C39 and C52 are very different fr
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 I used the Numerical~cat helper file since Chatgpt was giving me a hard time doing it. I find that the helper file are just easy and ore stright foward to use then chatgpt.
+After reviewing my data, it showed me that Q3 of C39 is smaller than Q1 of C52 indicating that they are indeed disjoint

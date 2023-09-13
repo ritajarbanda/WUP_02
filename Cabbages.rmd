@@ -46,7 +46,10 @@ The data Shows that Q3 of C39 is smaller than Q1 of C52 indicating that they are
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
-
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+The p-value 0.000000003405. This clearly shows C39 and C52 are very different from each other 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
 
